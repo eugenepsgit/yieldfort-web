@@ -1910,6 +1910,7 @@
   width: 20px;
   height: 20px;
   position: relative;
+  transition: 0.2s;
 }
 
 .faq__item--active .faq__toggle {
